@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a34a624a-996a-4b9d-8362-b1e914a1a225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaEx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +16,11 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Erick Hernandez &lt;ehrnd21@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -55,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583511008716</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit from intellij">
+      <created>1583511670362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583511670362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,12 +78,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit from intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit from intellij" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="27" width="801" height="741" key="CommitChangelistDialog2" timestamp="1583511545506">
+    <state x="277" y="27" width="801" height="741" key="CommitChangelistDialog2" timestamp="1583512151019">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="277" y="27" width="801" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1583511545506" />
+    <state x="277" y="27" width="801" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1583512151019" />
     <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1583511036235">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
